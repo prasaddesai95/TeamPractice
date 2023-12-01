@@ -8,4 +8,8 @@ public class Nikhil {
 		System.out.println("hi");
 	}
 
+	@Test
+	public void lovely() {
+		System.out.println("hi");
+	}
 }
