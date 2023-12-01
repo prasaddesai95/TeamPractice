@@ -9,4 +9,8 @@ public class demo1Test {
 	{
 		System.out.println("Hi Team");
 	}
+	public void vaishTest()
+	{
+		System.out.println("Hi Team");
+	}
 }
